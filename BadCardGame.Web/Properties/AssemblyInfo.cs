@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BadCardGame.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Great American Insurance Group")]
+[assembly: AssemblyCompany("Timothy M. Stepanski")]
 [assembly: AssemblyProduct("BadCardGame.Web")]
-[assembly: AssemblyCopyright("Copyright © Great American Insurance Group 2017")]
+[assembly: AssemblyCopyright("Copyright © Timothy M. Stepanski 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
