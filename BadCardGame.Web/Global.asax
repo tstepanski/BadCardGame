@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="BadCardGame.Web.WebApiApplication" Language="C#" %>
